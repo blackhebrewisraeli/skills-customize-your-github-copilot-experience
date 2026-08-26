@@ -65,6 +65,20 @@
       "description": "Create and validate REST API endpoints with Python and FastAPI.",
       "path": "assignments/building-rest-apis-fastapi",
       "dueDate": "2026-09-23"
+    },
+    {
+      "id": "debugging-and-testing-python",
+      "title": "Debugging and Testing Python Programs",
+      "description": "Find bugs, write assertions, and improve a small Python program.",
+      "path": "assignments/debugging-and-testing-python",
+      "dueDate": "2026-09-02",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
